@@ -1,7 +1,11 @@
 # auto-family-photo
 
-##Description
-collections tools to process family-like photo including 
-1. auto orientation detection
-2. face detection/registration/recognition
-3. ....
+##描述
+一些工具用来处理不断增加的来自手机的照片
+1. 基于内容的区分
+   风景,人物,表格&证件等
+2. 自动检测照片旋转角度
+   0度,90度,180度,27度
+3. 人脸相关
+   人脸检测,人脸识别
+4. ....
